@@ -1,0 +1,5 @@
+image:blue_rect.png compression_time:7ms input_size:2097152b result_size:1b compression ratio:2097152 current_time:15-03-41 algorithm:rle 
+image:blue_rect.png compression_time:7ms input_size:2097152b result_size:1b compression ratio:2097152 current_time:15-04-24 algorithm:rle 
+image:figures.jpg compression_time:1ms input_size:76300b result_size:30961b compression ratio:2 current_time:15-36-12 algorithm:rle 
+image:blue_rect.png compression_time:7ms input_size:2097152b result_size:1b compression ratio:2097152 current_time:15-37-03 algorithm:rle 
+image:blue_rect.png compression_time:6ms input_size:2097152b result_size:1b compression ratio:2097152 current_time:16-17-41 algorithm:rle 
